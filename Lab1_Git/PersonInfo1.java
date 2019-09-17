@@ -2,7 +2,7 @@ public class PersonInfo1 {
 
     public static String firstName = "Felix";
     public static String lastName = "Meunier";
-    public static int studentNo = 300060508;
+    public static int studentNo = 000;
     public static String description = "I am me";
 
     public static void displayFr() {
