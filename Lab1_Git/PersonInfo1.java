@@ -2,13 +2,9 @@ public class PersonInfo1 {
 
     public static String firstName = "Felix";
     public static String lastName = "Meunier";
-<<<<<<< HEAD
-    public static int studentNo = 000;
-    public static String description = "I am me";
-=======
+
     public static int studentNo = 300060508;
     public static String description = "I am undescribable";
->>>>>>> fm/newbranch
 
     public static void displayFr() {
         String out = SIConstants.GREETING_FR;
