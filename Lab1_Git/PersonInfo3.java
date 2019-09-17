@@ -1,8 +1,8 @@
 public class PersonInfo3 {
 
-    public static int studentNo = 173819;
     public static String firstName = "Yanic";
     public static String lastName = "Mainville";
+    public static int studentNo = 173819;
     public static String description = "Likes long walks along the beach";
 
     public static void displayFr() {
